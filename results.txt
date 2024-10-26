@@ -1,0 +1,5 @@
+batch_size = 256, learning_rate = 0.1, 
+    Epoch 19, Loss: 4.5482013583183285
+
+
+batch_size = 256, learning_rate = 0.001
